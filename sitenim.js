@@ -1,0 +1,1 @@
+[stackFieldChannel]: { ...encoding[stackFieldChannel],
